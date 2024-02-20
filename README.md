@@ -7,7 +7,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-cordoba-rodrigues-62b73a23a/?originalSubdomain=br)
 
-![JoaoPedroCordoba GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedrocordoba&show_icons=true&theme=dracula)      ![JoaoPedroCordoba GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroCordoba&theme=blue-green)
+![JoaoPedroCordoba GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedrocordoba&show_icons=true&theme=dracula)
 
 ## Projetos 
 
@@ -36,6 +36,8 @@
 
 </br>
 </br>
+
+![JoaoPedroCordoba GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroCordoba&theme=blue-green)
 
 
 
