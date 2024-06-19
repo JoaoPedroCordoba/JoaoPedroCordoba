@@ -1,4 +1,3 @@
-### Olá! Eu sou João Pedro Cordoba 👋
 #### Programador junior 🖥️
 
 </br>
