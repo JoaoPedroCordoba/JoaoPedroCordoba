@@ -14,7 +14,7 @@
 
 ## Tecnologias que ultilizo no meu dia a dia
 <div style="display: inline-block">
-<img src= "https://skillicons.dev/icons?i=js,html,css,c#,bootstrap,dotnet,mysql,notion,unity,vscode">
+<img src= "https://skillicons.dev/icons?i=js,html,css,cs,bootstrap,dotnet,mysql,notion,unity,vscode">
 </div>
 
 
